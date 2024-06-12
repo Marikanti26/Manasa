@@ -6,8 +6,7 @@ I Have 6+ years of IT experience in SDLC life cycle including development, testi
   - <b>Experience in writing ETL load and export strategies using Teradata load/export utilities BTEQ, FastLoad, MLoad, Fast Export, Tpump, and TPT on LINUX/UNIX and Windows environments.</b>
   - <b>Experience in ETL process using Informatica Power Center Designer, Workflow Manager, and Workflow Monitor.</b>
   - <b>Working experience with Control-M, Autosys scheduling tools to schedule and monitor production ETL load jobs.</b>
-  - <b>Working experience on check in and check out code repository and version control using GIT and GIT HUB.</b>
-
+  
 <h2>EDUCATION</h2>
 
 - <b>Bachelor of Engineering from Osmania University, Hyderabad, India – 2013</b>
